@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Martel&family=Prompt:wght@800&display=swap');
+
+header {
+    text-align: center;
+}
+
+header p {
+    max-width: 800px;
+    margin: 10px auto;
+}
+
+body {
+    font-family: 'Martel', serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Prompt', sans-serif;
+}
+
+main div {
+    width: 60%;
+    margin: 10px auto;
+    padding: 10px;
+    border: 2px solid navy;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+footer a {
+    color: black
+}
+
+iframe {
+    width: 70%
+}
