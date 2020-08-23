@@ -34,6 +34,20 @@ const videos = [
     flavor:
       "Javascript should be one of the first langauges you learn, and Javascript goes a lot further than manipulating what's in the browser. NodeJS Lets you run JS code out of the browser to make scripts, server-side applications and more!",
   },
+  {
+    topic: "VSCode: Super Charged Code Editor",
+    embed:
+      '<iframe height="315" src="https://www.youtube.com/embed/Pf54xUgWzhc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+    flavor:
+      "VSCode has quickly become one of the most popular Code Editors around. While there are other quality code editors like Atom and Sublime, VSCode and its vast library of extensions and built in tools make it a top choice among Free Code Editors. If willing to spend some cash you may also enjoy the language targeted suite of IDEs from JetBrains such as WebStorm, RubyMine and Pycharm.",
+  },
+  {
+    topic: "cURL, Postman, REST Client: Testing APIs ",
+    embed:
+      '<iframe height="315" src="https://www.youtube.com/embed/MifUZuRKrqg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+    flavor:
+      "API's are what give our frontend code life allowing us to interact with remote databases to create, read, update and delete data. Whether a 3rd party API or your own custom built API you need to test to make sure it works and you know how it works. cURL, Postman and Rest Client are three great options for testing your API endpoints.",
+  },
 ];
 
 const main = document.querySelector("main");
