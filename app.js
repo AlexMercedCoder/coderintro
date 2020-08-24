@@ -42,6 +42,13 @@ const videos = [
       "VSCode has quickly become one of the most popular Code Editors around. While there are other quality code editors like Atom and Sublime, VSCode and its vast library of extensions and built in tools make it a top choice among Free Code Editors. If willing to spend some cash you may also enjoy the language targeted suite of IDEs from JetBrains such as WebStorm, RubyMine and Pycharm.",
   },
   {
+    topic: "Chrome Dev Tools: Your Best Friend",
+    embed:
+      '<iframe height="315" src="https://www.youtube.com/embed/Bx9bhPOxNZk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+    flavor:
+      "One of the biggest frustrations in web development is testing and debugging. With the chrome dev tools you can make this headache go away by using tools to tweak and test properties live, see http requests and more right from the browser.",
+  },
+  {
     topic: "cURL, Postman, REST Client: Testing APIs ",
     embed:
       '<iframe height="315" src="https://www.youtube.com/embed/MifUZuRKrqg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
