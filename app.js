@@ -42,6 +42,13 @@ const videos = [
       "VSCode has quickly become one of the most popular Code Editors around. While there are other quality code editors like Atom and Sublime, VSCode and its vast library of extensions and built in tools make it a top choice among Free Code Editors. If willing to spend some cash you may also enjoy the language targeted suite of IDEs from JetBrains such as WebStorm, RubyMine and Pycharm.",
   },
   {
+    topic: "VSCode: The Best Extensions",
+    embed:
+      '<iframe height="315" src="https://www.youtube.com/embed/eftHJZwHYTQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+    flavor:
+      "In this video I go over many of the most useful VSCode extensions.",
+  },
+  {
     topic: "Chrome Dev Tools: Your Best Friend",
     embed:
       '<iframe height="315" src="https://www.youtube.com/embed/Bx9bhPOxNZk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
