@@ -21,6 +21,13 @@ const videos = [
       "Github is standard for version control. With Git you can keep track of updates to your code and collaborate with other. With github.com you can push code from your local git repositories online to save, secure and share!",
   },
   {
+    topic: "Backing up your code with Github Remotes",
+    embed:
+      '<iframe height="315" src="https://www.youtube.com/embed/TOsVVxXdtu8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+    flavor:
+      "It's important to add remotes to your local repository so you can backup your code to places like Github, Gitlab and Bitbucket. In this video we explore this pivotal feature in depth.",
+  },
+  {
     topic: "Markdown: Making Documentation",
     embed:
       '<iframe height="315" src="https://www.youtube.com/embed/lbpRomejEd0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
@@ -58,7 +65,7 @@ const videos = [
   {
     topic: "cURL, Postman, REST Client: Testing APIs ",
     embed:
-      '<iframe height="315" src="https://www.youtube.com/embed/MifUZuRKrqg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+      '<iframe height="315" src="https://www.youtube.com/embed/ruYh5Nuc98A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
     flavor:
       "API's are what give our frontend code life allowing us to interact with remote databases to create, read, update and delete data. Whether a 3rd party API or your own custom built API you need to test to make sure it works and you know how it works. cURL, Postman and Rest Client are three great options for testing your API endpoints.",
   },
